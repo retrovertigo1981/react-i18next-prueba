@@ -1,0 +1,13 @@
+{
+  "navbar": {
+    "features": "Features",
+    "customers": "Customers",
+    "integrations": "Integrations"
+  },
+
+  "table": {
+    "name": "NAME",
+    "role": "ROLE",
+    "status": "STATUS"
+  }
+}
